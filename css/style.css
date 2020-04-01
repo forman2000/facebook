@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+ol,ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+.container_full{
+    width: 100%;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.clr{
+    clear: both;
+}
+
+/*header style start*/
+
+.header_part{
+    width: 100%;
+    padding: 25px 0px 5px 0px;
+    background: #304889;
+}
+.logo{
+    width: 200px;
+    margin: 0px 10px;
+    float: left;
+}
+.logo h1{
+    font-family: sans-serif;
+    color: #f1f1f1;
+    font-size: 40px;
+}
+.text{
+    width: 780px;
+    float: left;
+}
+.text .form{
+    float: right;
+    padding-top: 0px;
+}
+.one{
+    float: left;
+}
+.one label{
+    font-family: sans-serif;
+    color: #f1f1f1;
+    font-size: 14px;
+}
+.one input{
+    padding: 4px 3px;
+}
+
+.two{
+    float: left;
+    margin-left: 10px;
+}
+.two label{
+    font-family: sans-serif;
+    color: #f1f1f1;
+    font-size: 14px;
+}
+.two input{
+    padding: 4px 3px;
+}
+.two p a{
+    font-family: sans-serif;
+    color: #ccc9c9;
+    font-size: 12px;
+    margin-top: 5px;
+}
+.three{
+    float: left;
+    margin-left: 10px;
+    padding: 20px 0px 0px 0px;
+}
+.three a{
+    padding: 4px 4px;
+    border: 1px solid #2e2d2d;
+    border-radius: 2px;
+    background: #4b6aeb;
+    color: #f1f1f1;
+    font-size: 13px;
+    font-family: sans-serif;
+    transition: 0.4s;
+}
+.three a:hover{
+    background: #37539f;
+}
+/*header style end*/
+
+
+/*body style start*/
+.body_part{
+    background: linear-gradient(to bottom, #fcfcfc 20%, #b1bed3 100%);
+}
+.container .left{
+    width: 520px;
+    float: left;
+    padding-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.container .left p{
+    font-family: sans-serif;
+    color: #333232;
+    font-size: 23px;
+}
+.container .right{
+    width: 440px;
+    float: left;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.right h1{
+    font-family: sans-serif;
+    color: #413f3f;
+    font-size: 40px;
+}
+.right p{
+    font-family: sans-serif;
+    color: #413f3f;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.int1{
+    padding: 10px 5px;
+    float: left;
+    border-radius: 3px;
+    border: 1px solid #555555;
+}
+.int2{
+    padding: 10px 5px;
+    float: left;
+    margin-left: 14px;
+    border-radius: 3px;
+    border: 1px solid #555555;
+}
+.int3{
+    padding: 10px 5px;
+    float: left;
+    border-radius: 3px;
+    margin-top: 10px;
+    border: 1px solid #555555;
+}
+.int4{
+    padding: 10px 5px;
+    float: left;
+    border-radius: 3px;
+    margin-top: 10px;
+    border: 1px solid #555555;
+}
+.birthday{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #898585;
+}
+select{
+    padding: 4px 10px 4px 4px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.fa-question-circle{
+    margin-left: 5px;
+    font-size: 18px;
+    color: #4a4a4a;
+}
+.gender h1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #898585;
+}
+.text1{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #212020;
+    float: left;
+    margin-left: 10px;
+}
+.text2{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #212020;
+    float: left;
+    margin-left: 20px;
+}
+.text3{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #212020;
+    float: left;
+    margin-left: 20px;
+}
+.iii{
+    margin-left: 20px;
+    font-size: 18px;
+}
+.form .para{
+    width: 320px;
+    margin-top: 20px;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: #696666;
+}
+.button{
+   margin: 40px 0px;
+}
+.button a{
+    font-size: 20px;
+    color: #fff;
+    background: #3b7729;
+    padding: 8px 70px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    border: 1px solid #3c3a3a;
+}
+.button a:hover{
+    background: #48913b; 
+}
+.right .footer{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #6a6565;
+    margin-top: 40px;
+}
+.right .footer a{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #225bdb;
+}
+/*body style end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
